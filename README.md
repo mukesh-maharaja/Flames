@@ -2,10 +2,6 @@
 
 This is a simple web application that calculates the relationship compatibility between two people using the Flames algorithm. The Flames algorithm is a popular game among teenagers to find out the relationship status between two individuals.
 
-## Demo
-
-You can see a live demo of the Flames Website [here](#).
-
 ## Features
 
 - Calculates relationship compatibility based on the Flames algorithm.
